@@ -11,3 +11,6 @@ Sample website with plenty of files for demos
 
 ##How To Contribute
 testing
+
+###COPYRIGHT
+2022 copy
